@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import * as S from '../../src/styles/styles';
+import * as S from '../src/styles/styles';
 
 const NavItem = ({ text, href, lang }) => (
   <S.NavItem >

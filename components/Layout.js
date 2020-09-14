@@ -1,8 +1,8 @@
 
 
-import GlobalStyles from '../../src/styles/globalStyles';
+import GlobalStyles from '../src/styles/globalStyles';
 import NavBar from './Navbar';
-import * as S from '../../src/styles/styles';
+import * as S from '../src/styles/styles';
 
 const Layout = ({ children }) => (
   <div>

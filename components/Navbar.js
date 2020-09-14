@@ -1,5 +1,5 @@
 import NavItem from './NavItem';
-import * as S from '../../src/styles/styles';
+import * as S from '../src/styles/styles';
 import { useRouter } from 'next/router';
 
 const navBarTexts = {

@@ -1,5 +1,5 @@
-import Layout from './components/Layout';
-import Partner from './components/Partner';
+import Layout from '../components/Layout';
+import Partner from '../components/Partner';
 import partners from '../src/data';
 
 const Partners = () => (

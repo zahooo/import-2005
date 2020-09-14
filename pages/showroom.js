@@ -1,4 +1,4 @@
-import Layout from './components/Layout';
+import Layout from '../components/Layout';
 import * as S from '../src/styles/styles';
 
 const ShowRoom = () => (
