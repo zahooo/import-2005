@@ -4,10 +4,10 @@
   "description": "Website for the company Import 2005, based in Hungary.",
   "main": "index.js",
   "dependencies": {
-    "next": "^9.5.2",
+    "next": "^9.5.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "styled-components": "^5.1.1"
+    "styled-components": "^5.2.0"
   },
   "devDependencies": {},
   "scripts": {

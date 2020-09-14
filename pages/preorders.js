@@ -1,6 +1,6 @@
 import Layout from './components/Layout';
-import * as S from './components/styles/styles';
-import partners from './src/data';
+import * as S from '../src/styles/styles'
+import partners from '../src/data';
 
 const tableHeadings = [
   'Márka',

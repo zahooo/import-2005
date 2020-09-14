@@ -1,5 +1,5 @@
 import Layout from './components/Layout';
-import * as S from './components/styles/styles';
+import * as S from '../src/styles/styles';
 
 const Contact = () => (
   <Layout>

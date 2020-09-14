@@ -1,7 +1,6 @@
 import Layout from './components/Layout';
 import Partner from './components/Partner';
-import * as S from './components/styles/styles';
-import partners from './src/data';
+import partners from '../src/data';
 
 const Partners = () => (
   <Layout>
