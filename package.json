@@ -1,0 +1,28 @@
+{
+  "name": "import-2005",
+  "version": "1.0.0",
+  "description": "Website for the company Import 2005, based in Hungary.",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.5.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zahooo/import-2005.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zahooo/import-2005/issues"
+  },
+  "homepage": "https://github.com/zahooo/import-2005#readme"
+}
